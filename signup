@@ -1,0 +1,285 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Kayıt Ol</title>
+		<meta name="keywords" content="smm panel">
+		<meta name="description" content="Smm Panel olarak uzun süredir tüm sosyal medyalarda hizmet veren en kaliteli sosyal medya paneli olan smmxy ile sizde tüm sosyal medya hizmetlerinizi tek bir panelde büyütmenin keyfini çıkaın. Smm panel olarak en hızlı ve güvenilir">
+					<link rel="shortcut icon" type="image/ico" href="https://cdn.mypanel.link/fpt4mf/drl7f2felans8d4q.png"/>
+		
+		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		  <![endif]-->
+		<style>.integration-fixed{position:fixed;z-index:10000000}.integration-fixed__top-left{top:0;left:0}.integration-fixed__top-right{top:0;right:0}.integration-fixed__bottom-left{bottom:0;left:0}.integration-fixed__bottom-right{bottom:0;right:0}
+</style>
+
+<meta name="google-site-verification" content="bYW1sPpGzVc3APmHn2mBNmLULYkEa09d5bCu4rrx1fQ" />
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KV3TGTV6CV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KV3TGTV6CV');
+</script>
+
+<script type="text/javascript" async src="//l.getsitecontrol.com/p4rvze1w.js"></script>
+
+					<link rel="stylesheet" type="text/css" href="https://cdn.mypanel.link/fpt4mf/gd25tp2y3jtczqfw.css">
+					<link rel="stylesheet" type="text/css" href="https://cdn.mypanel.link/fpt4mf/r2ahoic685isyx5b.css">
+					<link rel="stylesheet" type="text/css" href="https://cdn.mypanel.link/libs/bootstrap-datetimepicker/4.17.47/bootstrap-datetimepicker.min.css">
+					<link rel="stylesheet" type="text/css" href="https://cdn.mypanel.link/css/font-awesome/css/all.min.css">
+					<link rel="stylesheet" type="text/css" href="https://cdn.mypanel.link/global/c3gyq3shygmabbke.css">
+		      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css">
+	  <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css" />
+      <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	</head>
+		<body class="out">
+        <div id="header" class="headOut">
+            <div class="b-menu-wrapper">
+                <button class="b-menu-close" onclick="noAuthMenu()">
+                    <i class="ri-close-line"></i>
+                </button>
+                <div class="container">
+                    <div class="row row-btn align-items-center">
+                        <div class="col-lg-auto d-none d-lg-block">
+                            <div class="home-logo">
+                              <a href="/">
+																	<img src="https://cdn.mypanel.link/fpt4mf/rk4hq4j7b79fz4ro.png" alt="smmxy.net" title="">
+								                              </a>
+                            </div>
+                        </div>
+                        <div class="col text-center">
+                            <ul class="nmenu">
+							                                <li class="nmenu-item">
+                                    <a href="/services"   class="nmenu-link" >
+                                        Servis Listesi
+                                    </a>
+                                </li>
+							                                <li class="nmenu-item">
+                                    <a href="/blog"   class="nmenu-link" >
+                                        Blog
+                                    </a>
+                                </li>
+							                            </ul>
+                        </div>
+						<div class="row align-items-center">
+							<div class="col-lg-auto col-12 mb-2 mb-lg-0">
+                     		 							   <a href="/" class="header-btn btn-block without-icon">
+								<span class="text">Giriş Yap</span>
+							  </a>
+                     		 							</div>
+							<div class="col-lg-auto col-12">
+							  <a href="/signup" class="header-btn btn-block">
+								<span class="text">Kayıt ol</span>
+								<span class="icon">
+								  <i class="ri-arrow-right-line icon-ri"></i>
+								</span>
+							  </a>
+							</div>
+						  </div>
+                    </div>
+                </div>
+            </div>
+            <div class="sm-header">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col">
+                            <a href="/">
+																	<img src="https://cdn.mypanel.link/fpt4mf/rk4hq4j7b79fz4ro.png" height="45" alt="smmxy.net" title="">
+								                            </a>
+                        </div>
+                        <div class="col-auto">
+                            <button class="menu-btn" onclick="noAuthMenu()">
+                                <i class="ri-menu-line"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+		
+		<!-- Main variables *content* -->
+		<section class="regArea">
+	<div class="container">
+		<div class="row align-items-center">
+			<div class="col-lg-6 d-none d-md-block">
+						<div class="regRight mt-5 mt-lg-0">
+                            <div class="regSteps">
+                                <ul class="list-unstyled mb-0">
+                                    <li class="d-md-flex justify-content-between align-items-center mb-3">
+                                        <div class="me-3">
+                                            <i class="far fa-bullseye-pointer"></i>
+                                        </div>
+                                        <div>
+                                            <h6>Otomatik Teslimat</h6>
+                                            <p class="m-0">
+                                                Tam otomatik olan bayilik panelimizde verdiğiniz siparişler otomatik bir şekilde işlenerek tamamlanır.
+                                            </p>
+                                        </div>
+                                    </li>
+                                    <li class="d-md-flex justify-content-between align-items-center mb-3">
+                                        <div class="me-3">
+                                            <i class="far fa-credit-card"></i>
+                                        </div>
+                                        <div>
+                                            <h6>Güvenli Ödeme</h6>
+                                            <p class="m-0">
+                                                PayTR güvencesi ile ödemelerinizi ister Kredi kartı ister Banka Havalesi ile gerçekleştirebilirsiniz.
+                                            </p>
+                                        </div>
+                                    </li>
+                                    <li class="d-md-flex justify-content-between align-items-center">
+                                        <div class="me-3">
+                                            <i class="far fa-gem"></i>
+                                        </div>
+                                        <div>
+                                            <h6>Kaliteli Hizmet</h6>
+                                            <p class="m-0">
+                                                Kaliteli ve uygun fiyatlı servisler ile sizlere en iyi hizmeti vermek için çalışıyoruz.
+                                            </p>
+                                        </div>
+                                    </li>
+                                </ul>
+                                <div class="shape">
+                                    <ul class="list-unstyled mb-0">
+                                        <li></li>
+                                        <li></li>
+                                        <li></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>   
+
+			</div>
+			<div class="col-lg-6">
+			
+				<div class="gcard">
+							   <div class="gcard-header">
+								  <div class="row align-items-center">
+									<div class="col d-flex align-items-center">
+										<div class="ch-g-ticon">
+										  <div class="gcard-head-icon">
+											<i class="ri-user-add-line"></i>
+										  </div>
+										</div>
+										<div class="ch-text">
+										  <h3 class="gcard-title">Hemen kayıt ol!</h3>
+										</div>
+									</div>
+								  </div>
+							   </div>
+					<div class="gcard-body">
+						<form  action="" method="post">
+						  						  						  						  <div class="form-group">
+							  <input type="text" class="form-control" id="login" value="" name="RegistrationForm[login]" placeholder="Kullanıcı Adı">
+							</div>
+						  						  <div class="form-group">
+							  <input type="email" class="form-control" id="email" value="" name="RegistrationForm[email]" placeholder="E-posta Adresiniz">
+							</div>
+						  						  <div class="form-group">
+							  <input type="text" class="form-control" id="first_name" value="" name="RegistrationForm[first_name]" placeholder="Adınız">
+							</div>
+						  						  <div class="form-group">
+							  <input type="text" class="form-control" id="last_name" value="" name="RegistrationForm[last_name]" placeholder="Soyadınız">
+							</div>
+						  						  <div class="form-group">
+							  <input type="text" class="form-control" id="skype" value="" name="RegistrationForm[skype]" placeholder="Telefon Numaranız">
+							</div>
+						  						  <div class="form-group">
+							  <input type="password" class="form-control" id="password" value="" name="RegistrationForm[password]" placeholder="Şifre">
+							</div>
+						  						  <div class="form-group">
+							  <input type="password" class="form-control" id="password_again" value="" name="RegistrationForm[password_again]" placeholder="Şifreyi Tekrarla">
+							</div>
+						  						  							<div class="g-recaptcha form-group" data-sitekey="6LeF5rUaAAAAADYvG5QRSND25xaKUr_ba9EQ7PbY"></div>
+						  						  
+						  <input type="hidden" name="_csrf" value="jkLG2soLPmuHImzDGMweQZrEWOlq2VnT-tNYpQeWgfm7d7adnkMLKsIPWptrjmc445ciqz-_dIuuvzf_QKPzsQ==">
+						  <button type="submit" class="btn btn-primary btn-block">Kayıt ol</button>
+						</form>
+					</div>
+				</div>
+			</div>
+		
+		</div>
+	</div>
+</section>
+
+		
+
+
+
+<style>
+    .whatsapp-container{padding:24px}.whatsapp-button{width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF!important;border-radius:50px;text-align:center;font-size:30px;box-shadow:2px 2px 3px #999;display:flex;align-items:center;justify-content:center;text-decoration:none!important;-webkit-transition:all 0.3s ease;-moz-transition:all 0.3s ease;-o-transition:all 0.3s ease;-ms-transition:all 0.3s ease;transition:all 0.3s ease;transform:scale(0.9)}.whatsapp-button:hover{transform:scale(1);background-color:#1fcc5f}
+</style>
+<div class="integration-fixed integration-fixed__bottom-right">
+    <div class="whatsapp-container">
+        <a href="https://api.whatsapp.com/send?phone=905010698744" target="_blank" class="whatsapp-button">
+            <i class="fab fa-whatsapp"></i>
+        </a>
+    </div>
+</div>
+  
+  			<footer id="footer" class="footer-bg mt-0">
+				<div class="container text-center my-3 py-5">
+					<a href="/">
+											<img src="https://cdn.mypanel.link/fpt4mf/rk4hq4j7b79fz4ro.png" height="55" class="mb-4" alt="smmxy.net" title="smmxy.net">
+										</a>
+					<p class="mb-4">Bizi <strong>sosyal medya</strong>'da takip edin!</a></p>
+					<ul class="ficons ficons-big ficons-dark-2">
+						<li class="ficons-instagram"><a href="http://www.instagram.com/sw6nt3x" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a></li>
+						<li class="ficons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+						<li class="ficons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>
+						<li class="ficons-youtube"><a href="http://www.youtube.com/" target="_blank" title="Youtube"><i class="fab fa-youtube"></i></a></li>
+					</ul>
+				</div>
+				<div class="copyright footer-alt-bg py-4">
+					<div class="container text-center py-2">
+						<p class="mb-0 text-2 ls-0">Copyright 2023 smmxy.net - Tüm hakları saklıdır SWANTEX SUNAR.</p>
+					</div>
+				</div>
+			</footer>
+  
+      
+       
+		
+       <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+       <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+					<script type="text/javascript"  src="https://cdn.mypanel.link/libs/jquery/1.12.4/jquery.min.js" >
+							</script>
+					<script type="text/javascript"  src="https://cdn.mypanel.link/global/aknio8ec1fpphc0p.js" >
+							</script>
+					<script type="text/javascript"  src="https://cdn.mypanel.link/global/nfos6j9mo1on7ksz.js" >
+							</script>
+					<script type="text/javascript"  src="https://cdn.mypanel.link/global/j3cij5mot8617k2m.js" >
+							</script>
+					<script type="text/javascript"  src="https://cdn.mypanel.link/global/g5r4zgquzcuq7jtl.js" >
+							</script>
+					<script type="text/javascript"  src="https://cdn.mypanel.link/fpt4mf/tdb333e5b8wsq7fn.js" >
+							</script>
+					<script type="text/javascript"  src="https://cdn.mypanel.link/fpt4mf/wq7yqfynyjp76jba.js" >
+							</script>
+					<script type="text/javascript"  src="https://www.google.com/recaptcha/api.js?hl=tr" >
+							</script>
+					<script type="text/javascript" >
+									window.modules.layouts = {"theme_id":3,"auth":0,"live":true,"csrftoken":"jkLG2soLPmuHImzDGMweQZrEWOlq2VnT-tNYpQeWgfm7d7adnkMLKsIPWptrjmc445ciqz-_dIuuvzf_QKPzsQ=="};
+							</script>
+					<script type="text/javascript" >
+									window.modules.signup = [];
+							</script>
+					<script type="text/javascript" >
+							</script>
+		  
+<script type="text/javascript">
+    localStorage.clear();
+</script>  
+
+	</body>
+</html>
